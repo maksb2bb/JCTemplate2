@@ -1,3 +1,5 @@
-<resources>
-    <string name="app_name">JCTemplate2</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">JCTemplate2</string>
+    <string name="show_less" translatable="false">show less</string>
+    <string name="show_more" translatable="false">show more</string>
 </resources>
